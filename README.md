@@ -1,3 +1,3 @@
 # Sorting Vizualizer
 
-This project is created by Rikraj Mandal. The application is intended to help vizualizing sorting algorithms.
+This project is created by Aditya Ingale. It helps to visualize various Sorting Algorithms such as Bubble Sort, Insertion Sort, Merge Sort, etc.
